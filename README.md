@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Tudo bem?😎
 
 - 🌱 Cursando 2º Semestre de Análise e desenvolvimento de sistemas
 - 📫 Contate-me no email: pedrous700@gmail.com
