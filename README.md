@@ -3,7 +3,7 @@
 - ✔ Cursando 2º Semestre de Análise e desenvolvimento de sistemas
 - 📫 Contate-me no email: pedrous700@gmail.com
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Pedro101520">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedro101520&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro101520&layout=compact&langs_count=7&theme=dark"/>
@@ -25,3 +25,4 @@
 </div>
 
 ![snake gif](https://github.com/Pedro101520/Pedro101520/blob/output/github-contribution-grid-snake.svg)
+ -->
