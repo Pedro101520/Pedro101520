@@ -2,6 +2,7 @@
 
 - ✔ Cursando 4º Semestre de Análise e desenvolvimento de sistemas na FATEC-SP
 - 📫 Contate-me no email: pedrous700@gmail.com
+- Meu portifólio: pedro101520.github.io
 
 <div align="center">
   <a href="https://github.com/Pedro101520">
