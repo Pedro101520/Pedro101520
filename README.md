@@ -1,7 +1,6 @@
 ### Olá! Tudo bem?😎
 
 - ✔ Cursando 4º Semestre de Análise e desenvolvimento de sistemas na FATEC-SP
-- 📖 Meu site: pedrolima.tech
 - 📫 Contate-me no email: pedrous700@gmail.com
 
 <div align="center">
