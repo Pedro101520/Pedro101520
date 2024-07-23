@@ -1,6 +1,6 @@
 ### Olá! Tudo bem? 😎
 
-- ✔ Cursando 5º Semestre de Análise e desenvolvimento de sistemas na FATEC-SP
+- ✔ Cursando 6º Semestre de Análise e desenvolvimento de sistemas na FATEC-SP
 - 📫 Contate-me no email: pedrous700@gmail.com
 
 <div align="center">
